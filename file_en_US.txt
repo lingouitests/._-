@@ -1,1 +1,6 @@
-This is a (parenthesis (that contains another (nested parenthesis))
+Name: John Smith, Jr., Age: 30, City: New York, N.Y.
+"Hello "World"", 'It''s a test', < > & |
+First line\r\nSecond line\nThird line\rFourth line
+café ( café ) 👋 😊
+$1,234.56 €1.234,57 ¥1,234 1,234.56e-7
+"He said 'this is a test' and "that too""
