@@ -1,11 +1,13 @@
 {
-"the_cat": "The Cat",
-
-       "car": "Auto",
-       "bike": "Bike has changed",
-
-
-       "blue": "Blue",
-       "red": "Red"
-
+   "the_cat":"The Cat",
+   "vehicles":[
+      "car",
+      "Auto",
+      "bike",
+      "Bike has changed"
+   ],
+   "colors":{
+      "blue":"Blue",
+      "red":"Red"
+   }
 }
