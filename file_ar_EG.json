@@ -1,9 +1,6 @@
 {
   "the_cat": "The Cat",
   "vehicles": [
-    {
-      "_LRM_RESEND744": " Resend request from String Manager 17491399307671"
-    },
     "car",
     "Auto",
     "bike",
