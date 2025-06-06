@@ -1,13 +1,8 @@
 {
    "the_cat":"door",
-      "vehicles":[
-      "car2 two",
-      "Auto2 three",
-      "bike2 four",
-      "Bike has changed2 five"
-   ],
+
    "colors":{
-      "blue":"Blue2 six",
-      "red":"Red2 seven"
+      "blue":"Blue",
+      "red":"Red"
    }
 }
