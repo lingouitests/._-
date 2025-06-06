@@ -1,13 +1,13 @@
 {
   "the_cat": "Le Cat2",
   "vehicles": [
-    "Car2",
-    "Auto2",
-    "vélo2",
-    "Le vélo a changé2"
+    "Car2 Deux",
+    "Auto2 trois",
+    "Bike2 quatre",
+    "Le vélo a changé2 cinq"
   ],
    "colors":{
-    "blue": "Bleu2",
-    "red": "Rouge2"
+    "blue": "Bleu2 six",
+    "red": "Rouge2 sept"
    }
 }
