@@ -1,12 +1,9 @@
 {
    "the_cat":"The Cat",
-    "_LRM_RESEND2":"Resend tag2",
    "vehicles":[
       "car",
-      { "_LRM_RESEND2":"Resend tag2"},
       "Auto",
       "bike",
-      { "_LRM_RESEND2":"Resend tag2"},
       "Bike has changed"
    ],
    "colors":{
