@@ -1,8 +1,8 @@
 {
-   "the_cat":"door one",
+   "the_cat":"door",
 
    "colors":{
-      "blue":"Blue two",
-      "red":"Red three"
+      "blue":"Blue",
+      "red":"Red"
    }
 }
